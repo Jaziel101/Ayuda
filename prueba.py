@@ -1,2 +1,3 @@
 class Cronometro:
-    uyhijhbij
+    def __init__(self):
+        self.__inicia=time.time()
