@@ -1,0 +1,2 @@
+class Cronometro:
+    uyhijhbij
